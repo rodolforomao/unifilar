@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:32:32.535Z" agent="5.0 (Windows)" etag="6sY7nFHF8GtETVNJ2m0E" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:47:58.961Z" agent="5.0 (Windows)" etag="C_TAnO1-D017DG9iJIOn" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-21" target="4vYh27ppjJLLdov5CZwn-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-21" value="Inicializa variáveis de ambiente" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562.5" y="360" width="120" height="40" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-21" value="&lt;div&gt;Inicializa variáveis de ambiente&lt;/div&gt;&lt;div&gt;$listaPontosCardeais&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="562.5" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-27">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-23" value="Inicializa da lista de camadas a serem impressas" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-23" value="&lt;div&gt;Inicializa da lista de camadas a serem impressas&lt;/div&gt;&lt;div&gt;$listaCamadas&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-27" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Lista e organiza as camadas que serão impressas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Verifica se há obras de restauração (aparecerá mais uma pista, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.1) Configura deslocamentos de html/css caso exista a camada de restauração&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Verifica se há OAE´s&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -103,7 +103,7 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-29" target="4vYh27ppjJLLdov5CZwn-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-29" value="&lt;div&gt;Inicializa deslocamentos iniciais&lt;/div&gt;&lt;div&gt;(Styles e Css)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-29" value="&lt;div&gt;Inicializa deslocamentos iniciais&lt;/div&gt;&lt;div&gt;(Styles e Css)&lt;/div&gt;&lt;div&gt;$styleTopPistaConstrucao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552.5" y="519" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-31" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1) Deslocamento Top da Pista de Construção (depende da restauração, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Top das setas na Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Top dos pinos da Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4) Top do travamento da régua, referente a pista de construção (depende de restaura)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -115,11 +115,11 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-33" target="4vYh27ppjJLLdov5CZwn-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-33" value="Inicializa nome dos index dos deslocamentos" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="537" y="620" width="170" height="60" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-33" value="&lt;div&gt;Inicializa nome dos index dos deslocamentos&lt;/div&gt;&lt;div&gt;$columnDeslocamentoOcasionadoPeloGeroEmZ&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="620" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-36" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Deslocamento ocasionado pelo Giro em Z da pista de construção;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Distancia da figura da pista em relação a XXXXXX&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Deslocamento da régua da pista em relação ao top&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4) Deslocamento entre as camadas do unifilar da pista de construção&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5) deslocamento ocasionado pelo Giro em Z da pista restauração&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6) Deslocamento entre as camadas do unifilar da pista de restauração&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="762.5" y="605" width="520" height="90" as="geometry" />
+          <mxGeometry x="827" y="605" width="520" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-36" target="4vYh27ppjJLLdov5CZwn-36">
           <mxGeometry relative="1" as="geometry" />
@@ -127,14 +127,14 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-39" target="4vYh27ppjJLLdov5CZwn-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-39" value="&lt;div&gt;Inicializa deslocamentos &lt;br&gt;&lt;/div&gt;&lt;div&gt;Linha 93 a 113&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552.5" y="720" width="140" height="60" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-39" value="&lt;div&gt;Inicializa deslocamentos &lt;br&gt;&lt;/div&gt;&lt;div&gt;$unidadeDeAlturaCamada&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="543" y="720" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-43" target="4vYh27ppjJLLdov5CZwn-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-43" value="Inicialização dos caminhos do Assets (img, css e js)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="562.5" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-43" value="&lt;div&gt;Inicialização dos caminhos do Assets (img, css e js)&lt;/div&gt;&lt;div&gt;$pathAssets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="533" y="810" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-45" target="4vYh27ppjJLLdov5CZwn-48">
           <mxGeometry relative="1" as="geometry" />
@@ -148,8 +148,38 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-48" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de JavaScript que serão importados;&lt;/div&gt;&lt;div&gt;2) Importação dos JavaScript;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="483" y="990" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-50" target="4vYh27ppjJLLdov5CZwn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-50" value="&lt;div&gt;Configura o base_url no JavaScript&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="1080" width="230" height="30" as="geometry" />
+          <mxGeometry x="508" y="1075" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-52" target="4vYh27ppjJLLdov5CZwn-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-52" value="Recebe dados Gerais do Contrato em questão" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="507" y="1120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-54" value="&lt;div&gt;Gera lista de segmentos de pista de construção e segmento de pista de restauração&lt;/div&gt;&lt;div&gt;$listaSegmentos&lt;/div&gt;&lt;div&gt;$listaSegmentosRestauracao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="507" y="1240" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-56" value="&lt;blockquote&gt;dividirSegmentosAvancados();&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="782" y="1250" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-58" value="Tratamento para camadas de OAE e Restauração" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="507" y="1180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-61" value="&lt;blockquote&gt;Remove a camada de restauração da lista;&lt;br&gt;Remove a &quot;camada&quot; de OAE da lista;&lt;br&gt;Calcula a posição das placas;&lt;br&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="1165" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
