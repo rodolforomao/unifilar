@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:51:29.311Z" agent="5.0 (Windows)" etag="ccXOg33qR3dmlgranH_h" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T12:20:30.942Z" agent="5.0 (Windows)" etag="WpCefljtyKgl8oa0OFcq" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -163,11 +163,14 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-54" value="&lt;div&gt;Gera lista de segmentos de pista de construção e segmento de pista de restauração&lt;/div&gt;&lt;div&gt;$listaSegmentos&lt;/div&gt;&lt;div&gt;$listaSegmentosRestauracao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="512" y="1282" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-56" value="&lt;blockquote&gt;dividirSegmentosAvancados();&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="782" y="1292" width="218" height="60" as="geometry" />
+          <mxGeometry x="771" y="1306" width="247" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-54">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +183,33 @@
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-61" value="&lt;blockquote&gt;Remove a camada de restauração da lista;&lt;br&gt;Remove a &quot;camada&quot; de OAE da lista;&lt;br&gt;Calcula a posição das placas;&lt;br&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="1207" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-63" target="4vYh27ppjJLLdov5CZwn-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-63" value="&lt;div&gt;Ativar Pinos de:&lt;/div&gt;&lt;div&gt;1) Municípios;&lt;/div&gt;&lt;div&gt;2) Pontos Cardeais;&lt;/div&gt;&lt;div&gt;3) Ativas Fotos; (Portal)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="512" y="1390" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-65" target="4vYh27ppjJLLdov5CZwn-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-65" value="&lt;div&gt;Declaração de funções Auxiliares&lt;/div&gt;&lt;div&gt;function calcularDeslocamentoSegmentos&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarFotos&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="482" y="1500" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-67" target="4vYh27ppjJLLdov5CZwn-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-67" value="&lt;div&gt;Declaração de HTML´s dinâmicos&lt;br&gt;&lt;/div&gt;&lt;div&gt;function plotarCssDinamico&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarRegua&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="482" y="1610" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-69" target="4vYh27ppjJLLdov5CZwn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-69" value="&lt;div&gt;Início do código HTML&lt;/div&gt;&lt;div&gt;&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481" y="1714" width="290" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="4vYh27ppjJLLdov5CZwn-71" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Div Principal:&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Div Secundária:&amp;lt;div class=&quot;seguimentos restauracao&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Div 3:&amp;lt;div class=&quot;col seguimento seguimento-1&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4) Div 4.1:&amp;lt;div class=&quot;seguimento-info&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div da placa superior a pista&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.1) Nº do segmento e km inicial/final&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.2) Fechar div 4&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5) Div 4.2: &amp;lt;div class=&quot;seguimento-road&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div da pista&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.2.1) Plota a pista de restauração (se existir) e de construção&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="1662" width="464" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
