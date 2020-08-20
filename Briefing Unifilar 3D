@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:47:58.961Z" agent="5.0 (Windows)" etag="C_TAnO1-D017DG9iJIOn" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:51:29.311Z" agent="5.0 (Windows)" etag="ccXOg33qR3dmlgranH_h" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,35 +139,35 @@
         <mxCell id="4vYh27ppjJLLdov5CZwn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-45" target="4vYh27ppjJLLdov5CZwn-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-45" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de CSS´s que serão importados;&lt;/div&gt;&lt;div&gt;2) Importação dos CSS´s;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="502.5" y="900" width="240" height="60" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-45" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de CSS´s que serão importados; $listaCssImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos CSS´s;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="462" y="900" width="322" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-48" target="4vYh27ppjJLLdov5CZwn-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-48" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de JavaScript que serão importados;&lt;/div&gt;&lt;div&gt;2) Importação dos JavaScript;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="483" y="990" width="280" height="60" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-48" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de JS que serão importados;&lt;/div&gt;&lt;div&gt;$listaJsImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos JavaScript;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="458" y="990" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-50" target="4vYh27ppjJLLdov5CZwn-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-50" value="&lt;div&gt;Configura o base_url no JavaScript&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508" y="1075" width="230" height="30" as="geometry" />
+          <mxGeometry x="508" y="1070" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-52" target="4vYh27ppjJLLdov5CZwn-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-52" value="Recebe dados Gerais do Contrato em questão" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507" y="1120" width="230" height="30" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-52" value="&lt;div&gt;Recebe dados Gerais do Contrato em questão;&lt;/div&gt;&lt;div&gt;$extensaoTotal&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;Contrutora&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_inicial&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_final&quot;]&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="467" y="1120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-54" value="&lt;div&gt;Gera lista de segmentos de pista de construção e segmento de pista de restauração&lt;/div&gt;&lt;div&gt;$listaSegmentos&lt;/div&gt;&lt;div&gt;$listaSegmentosRestauracao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507" y="1240" width="230" height="80" as="geometry" />
+          <mxGeometry x="512" y="1282" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-56" value="&lt;blockquote&gt;dividirSegmentosAvancados();&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="782" y="1250" width="218" height="60" as="geometry" />
+          <mxGeometry x="782" y="1292" width="218" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-54">
           <mxGeometry relative="1" as="geometry" />
@@ -176,10 +176,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-58" value="Tratamento para camadas de OAE e Restauração" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507" y="1180" width="230" height="30" as="geometry" />
+          <mxGeometry x="512" y="1222" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vYh27ppjJLLdov5CZwn-61" value="&lt;blockquote&gt;Remove a camada de restauração da lista;&lt;br&gt;Remove a &quot;camada&quot; de OAE da lista;&lt;br&gt;Calcula a posição das placas;&lt;br&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="1165" width="340" height="60" as="geometry" />
+          <mxGeometry x="770" y="1207" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
