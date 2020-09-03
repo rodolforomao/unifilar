@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T15:36:22.342Z" agent="5.0 (Windows)" etag="6InnVpt8rprpZj8hplcL" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T21:02:52.075Z" agent="5.0 (Windows)" etag="79MjTs3gDTlwMkpFG6cF" version="13.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,233 +10,251 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Impressão do diagrama Unifilar 3D" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-2" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="4vYh27ppjJLLdov5CZwn-2" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-5" value="&lt;div&gt;View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-5" value="&lt;div&gt;View&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-2" target="4vYh27ppjJLLdov5CZwn-5">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-2" target="4vYh27ppjJLLdov5CZwn-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-2" target="WIyWlLk6GJQsqaUBKTNV-7">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-2" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-9" value="application/views/homeCgcont/homeBriefing/briefingUnifilar.php" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-9" value="application/views/homeCgcont/homeBriefing/briefingUnifilar.php" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="90" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-10" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-9" target="4vYh27ppjJLLdov5CZwn-5">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-10" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-9" target="4vYh27ppjJLLdov5CZwn-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-12" target="4vYh27ppjJLLdov5CZwn-15">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-12" target="4vYh27ppjJLLdov5CZwn-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-19" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vYh27ppjJLLdov5CZwn-16">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-19" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4vYh27ppjJLLdov5CZwn-16" vertex="1" connectable="0">
           <mxGeometry x="-0.3538" y="-12" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-12" target="4vYh27ppjJLLdov5CZwn-13">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-12" target="4vYh27ppjJLLdov5CZwn-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-12" value="EXISTE $dadosUnifilar3D ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-12" value="EXISTE $dadosUnifilar3D ?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="170" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-13" target="4vYh27ppjJLLdov5CZwn-15">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-13" target="4vYh27ppjJLLdov5CZwn-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-18" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4vYh27ppjJLLdov5CZwn-17">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-18" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4vYh27ppjJLLdov5CZwn-17" vertex="1" connectable="0">
           <mxGeometry x="-0.4963" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-13" target="4vYh27ppjJLLdov5CZwn-21">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-13" target="4vYh27ppjJLLdov5CZwn-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-13" value="EXISTE $dadosContrato?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-13" value="EXISTE $dadosContrato?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="270" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-5" target="4vYh27ppjJLLdov5CZwn-12">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-5" target="4vYh27ppjJLLdov5CZwn-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-15" value="Tela de dados vazios" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-15" value="Tela de dados vazios" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-21" target="4vYh27ppjJLLdov5CZwn-23">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-21" target="4vYh27ppjJLLdov5CZwn-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-21" value="&lt;div&gt;Inicializa variáveis de ambiente&lt;/div&gt;&lt;div&gt;$listaPontosCardeais&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-21" value="&lt;div&gt;Inicializa variáveis de ambiente&lt;/div&gt;&lt;div&gt;$listaPontosCardeais&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="562.5" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-27">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-29">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-23" target="4vYh27ppjJLLdov5CZwn-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-23" value="&lt;div&gt;Inicializa da lista de camadas a serem impressas&lt;/div&gt;&lt;div&gt;$listaCamadas&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-23" value="&lt;div&gt;Inicializa da lista de camadas a serem impressas&lt;/div&gt;&lt;div&gt;$listaCamadas&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="562.5" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-27" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Lista e organiza as camadas que serão impressas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Verifica se há obras de restauração (aparecerá mais uma pista, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.1) Configura deslocamentos de html/css caso exista a camada de restauração&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Verifica se há OAE´s&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-27" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Lista e organiza as camadas que serão impressas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Verifica se há obras de restauração (aparecerá mais uma pista, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.1) Configura deslocamentos de html/css caso exista a camada de restauração&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Verifica se há OAE´s&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="757.5" y="420" width="557.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-29" target="4vYh27ppjJLLdov5CZwn-31">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-29" target="4vYh27ppjJLLdov5CZwn-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-29" target="4vYh27ppjJLLdov5CZwn-33">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-29" target="4vYh27ppjJLLdov5CZwn-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-29" value="&lt;div&gt;Inicializa deslocamentos iniciais&lt;/div&gt;&lt;div&gt;(Styles e Css)&lt;/div&gt;&lt;div&gt;$styleTopPistaConstrucao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-29" value="&lt;div&gt;Inicializa deslocamentos iniciais&lt;/div&gt;&lt;div&gt;(Styles e Css)&lt;/div&gt;&lt;div&gt;$styleTopPistaConstrucao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="552.5" y="519" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-31" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1) Deslocamento Top da Pista de Construção (depende da restauração, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Top das setas na Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Top dos pinos da Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4) Top do travamento da régua, referente a pista de construção (depende de restaura)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-31" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1) Deslocamento Top da Pista de Construção (depende da restauração, caso exista)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Top das setas na Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Top dos pinos da Pista de Construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4) Top do travamento da régua, referente a pista de construção (depende de restaura)&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="757" y="518" width="570" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-33" target="4vYh27ppjJLLdov5CZwn-36">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-33" target="4vYh27ppjJLLdov5CZwn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-33" target="4vYh27ppjJLLdov5CZwn-39">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-33" target="4vYh27ppjJLLdov5CZwn-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-33" value="&lt;div&gt;Inicializa nome dos index dos deslocamentos&lt;/div&gt;&lt;div&gt;$columnDeslocamentoOcasionadoPeloGeroEmZ&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-33" value="&lt;div&gt;Inicializa nome dos index dos deslocamentos&lt;/div&gt;&lt;div&gt;$columnDeslocamentoOcasionadoPeloGeroEmZ&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="457" y="620" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-36" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Deslocamento ocasionado pelo Giro em Z da pista de construção;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Distancia da figura da pista em relação a XXXXXX&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Deslocamento da régua da pista em relação ao top&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4) Deslocamento entre as camadas do unifilar da pista de construção&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5) deslocamento ocasionado pelo Giro em Z da pista restauração&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6) Deslocamento entre as camadas do unifilar da pista de restauração&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-36" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Deslocamento ocasionado pelo Giro em Z da pista de construção;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2) Distancia da figura da pista em relação a XXXXXX&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3) Deslocamento da régua da pista em relação ao top&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4) Deslocamento entre as camadas do unifilar da pista de construção&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;5) deslocamento ocasionado pelo Giro em Z da pista restauração&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;6) Deslocamento entre as camadas do unifilar da pista de restauração&lt;/div&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="827" y="605" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-36" target="4vYh27ppjJLLdov5CZwn-36">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-36" target="4vYh27ppjJLLdov5CZwn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-39" target="4vYh27ppjJLLdov5CZwn-43">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-39" target="4vYh27ppjJLLdov5CZwn-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-39" value="&lt;div&gt;Inicializa deslocamentos &lt;br&gt;&lt;/div&gt;&lt;div&gt;$unidadeDeAlturaCamada&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-39" value="&lt;div&gt;Inicializa deslocamentos &lt;br&gt;&lt;/div&gt;&lt;div&gt;$unidadeDeAlturaCamada&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="543" y="720" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-43" target="4vYh27ppjJLLdov5CZwn-45">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-43" target="4vYh27ppjJLLdov5CZwn-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-43" value="&lt;div&gt;Inicialização dos caminhos do Assets (img, css e js)&lt;/div&gt;&lt;div&gt;$pathAssets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-43" value="&lt;div&gt;Inicialização dos caminhos do Assets (img, css e js)&lt;/div&gt;&lt;div&gt;$pathAssets&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="533" y="810" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-45" target="4vYh27ppjJLLdov5CZwn-48">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-45" target="4vYh27ppjJLLdov5CZwn-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-45" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de CSS´s que serão importados; $listaCssImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos CSS´s;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-45" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de CSS´s que serão importados; $listaCssImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos CSS´s;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="462" y="900" width="322" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-48" target="4vYh27ppjJLLdov5CZwn-50">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-48" target="4vYh27ppjJLLdov5CZwn-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-48" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de JS que serão importados;&lt;/div&gt;&lt;div&gt;$listaJsImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos JavaScript;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-48" value="&lt;div align=&quot;left&quot;&gt;&lt;blockquote&gt;&lt;div&gt;1) Lista de JS que serão importados;&lt;/div&gt;&lt;div&gt;$listaJsImports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Importação dos JavaScript;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="458" y="990" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-50" target="4vYh27ppjJLLdov5CZwn-52">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-50" target="4vYh27ppjJLLdov5CZwn-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-50" value="&lt;div&gt;Configura o base_url no JavaScript&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-50" value="&lt;div&gt;Configura o base_url no JavaScript&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="508" y="1070" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-52" target="4vYh27ppjJLLdov5CZwn-58">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-52" target="4vYh27ppjJLLdov5CZwn-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-52" value="&lt;div&gt;Recebe dados Gerais do Contrato em questão;&lt;/div&gt;&lt;div&gt;$extensaoTotal&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;Contrutora&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_inicial&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_final&quot;]&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-52" value="&lt;div&gt;Recebe dados Gerais do Contrato em questão;&lt;/div&gt;&lt;div&gt;$extensaoTotal&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;Contrutora&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_inicial&quot;]&lt;/div&gt;&lt;div&gt;$nomeContrutora[&quot;km_final&quot;]&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="467" y="1120" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-56">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-63">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-54" target="4vYh27ppjJLLdov5CZwn-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-54" value="&lt;div&gt;Gera lista de segmentos de pista de construção e segmento de pista de restauração&lt;/div&gt;&lt;div&gt;$listaSegmentos&lt;/div&gt;&lt;div&gt;$listaSegmentosRestauracao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-54" value="&lt;div&gt;Gera lista de segmentos de pista de construção e segmento de pista de restauração&lt;/div&gt;&lt;div&gt;$listaSegmentos&lt;/div&gt;&lt;div&gt;$listaSegmentosRestauracao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="512" y="1282" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-56" target="4vYh27ppjJLLdov5CZwn-79">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-56" target="4vYh27ppjJLLdov5CZwn-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-56" value="&lt;blockquote&gt;dividirSegmentosAvancados();&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-56" value="&lt;blockquote&gt;dividirSegmentosAvancados();&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1160" y="1306" width="247" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-54">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-61">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-58" target="4vYh27ppjJLLdov5CZwn-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-58" value="Tratamento para camadas de OAE e Restauração" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-58" value="Tratamento para camadas de OAE e Restauração" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="512" y="1222" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-61" value="&lt;blockquote&gt;Remove a camada de restauração da lista;&lt;br&gt;Remove a &quot;camada&quot; de OAE da lista;&lt;br&gt;Calcula a posição das placas;&lt;br&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-61" value="&lt;blockquote&gt;Remove a camada de restauração da lista;&lt;br&gt;Remove a &quot;camada&quot; de OAE da lista;&lt;br&gt;Calcula a posição das placas;&lt;br&gt;&lt;/blockquote&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="1207" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-63" target="4vYh27ppjJLLdov5CZwn-65">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-63" target="4vYh27ppjJLLdov5CZwn-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-63" value="&lt;div&gt;Ativar Pinos de:&lt;/div&gt;&lt;div&gt;1) Municípios;&lt;/div&gt;&lt;div&gt;2) Pontos Cardeais;&lt;/div&gt;&lt;div&gt;3) Ativas Fotos; (Portal)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-63" value="&lt;div&gt;Ativar Pinos de:&lt;/div&gt;&lt;div&gt;1) Municípios;&lt;/div&gt;&lt;div&gt;2) Pontos Cardeais;&lt;/div&gt;&lt;div&gt;3) Ativas Fotos; (Portal)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="512" y="1390" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-65" target="4vYh27ppjJLLdov5CZwn-67">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-65" target="4vYh27ppjJLLdov5CZwn-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-65" value="&lt;div&gt;Declaração de funções Auxiliares&lt;/div&gt;&lt;div&gt;function calcularDeslocamentoSegmentos&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarFotos&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-65" value="&lt;div&gt;Declaração de funções Auxiliares&lt;/div&gt;&lt;div&gt;function calcularDeslocamentoSegmentos&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarFotos&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="482" y="1500" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-67" target="4vYh27ppjJLLdov5CZwn-69">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-67" target="4vYh27ppjJLLdov5CZwn-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-67" value="&lt;div&gt;Declaração de HTML´s dinâmicos&lt;br&gt;&lt;/div&gt;&lt;div&gt;function plotarCssDinamico&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarRegua&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-67" value="&lt;div&gt;Declaração de HTML´s dinâmicos&lt;br&gt;&lt;/div&gt;&lt;div&gt;function plotarCssDinamico&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;function plotarRegua&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="482" y="1610" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-69" target="4vYh27ppjJLLdov5CZwn-71">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-69" target="4vYh27ppjJLLdov5CZwn-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-69" value="&lt;div&gt;Início do código HTML&lt;/div&gt;&lt;div&gt;&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-69" value="&lt;div&gt;Início do código HTML&lt;/div&gt;&lt;div&gt;&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="481" y="1714" width="290" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-71" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Div Principal:&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; // IMPRESSÃO DAS FIGURAS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Div Secundária:&amp;lt;div class=&quot;seguimentos restauracao&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Div 3:&amp;lt;div class=&quot;col seguimento seguimento-1&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4) Div 4.1:&amp;lt;div class=&quot;seguimento-info&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div da placa superior a pista&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.1) Nº do segmento e km inicial/final&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.2) Fechar div 4&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5) Div 4.2: &amp;lt;div class=&quot;seguimento-road&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div&amp;nbsp; da pista&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.2.1) Plota a pista de restauração (se existir) e de construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 6) Dev 4.3: Plotar Legendas Setas e Placas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Finaliza div 3&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; // Plotar pinos: plotarPinosCidades&lt;br&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; // Plotar pontos cardeais: plotarPontosCardeais&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Finaliza div 2&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; // Plota legenda: &amp;lt;div class=&quot;row row-legenda&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) Finaliza div 1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) Div Fotos: &amp;lt;div class=&quot;row fotos&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-71" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;1) Div Principal:&amp;lt;div class=&quot;avanco-fisico&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; // IMPRESSÃO DAS FIGURAS&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Div Secundária:&amp;lt;div class=&quot;seguimentos restauracao&quot;&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Div 3:&amp;lt;div class=&quot;col seguimento seguimento-1&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4) Div 4.1:&amp;lt;div class=&quot;seguimento-info&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div da placa superior a pista&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.1) Nº do segmento e km inicial/final&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.1.2) Fechar div 4&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5) Div 4.2: &amp;lt;div class=&quot;seguimento-road&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Div&amp;nbsp; da pista&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4.2.1) Plota a pista de restauração (se existir) e de construção&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 6) Dev 4.3: Plotar Legendas Setas e Placas&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; 3) Finaliza div 3&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; // Plotar pinos: plotarPinosCidades&lt;br&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; // Plotar pontos cardeais: plotarPontosCardeais&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2) Finaliza div 2&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; // Plota legenda: &amp;lt;div class=&quot;row row-legenda&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) Finaliza div 1&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) Div Fotos: &amp;lt;div class=&quot;row fotos&quot;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810" y="1593.5" width="510" height="287" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-73" target="4vYh27ppjJLLdov5CZwn-75">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-73" target="4vYh27ppjJLLdov5CZwn-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-73" value="&lt;div align=&quot;left&quot;&gt;PASSO 1 - Segmentar execução por range de &quot;KM INICIAL&quot; vs &quot;KM FINAL&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) O sistema irá juntar os seguimentos que estiverem em execução com o mesmo range de quilometragem.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Variável: $listaSegmentos[X][Y][Z]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;X&quot; será o index da quantidade de segmentos com mesmo range de quilometragem&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;Y&quot; será o index da quantidade de camadas do segmentos com mesmo range de quilometragem&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;Z&quot; serão os dados dentro do segmento / camada especificados nos itens anteriores&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; O &quot;Z&quot; será os itens: noma_camada, km_inicial, km_final, porcentagem_local, porcentagem_global&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-73" value="&lt;div align=&quot;left&quot;&gt;PASSO 1 - Segmentar execução por range de &quot;KM INICIAL&quot; vs &quot;KM FINAL&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1) O sistema irá juntar os seguimentos que estiverem em execução com o mesmo range de quilometragem.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Variável: $listaSegmentos[X][Y][Z]&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;X&quot; será o index da quantidade de segmentos com mesmo range de quilometragem&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;Y&quot; será o index da quantidade de camadas do segmentos com mesmo range de quilometragem&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;Z&quot; serão os dados dentro do segmento / camada especificados nos itens anteriores&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; O &quot;Z&quot; será os itens: noma_camada, km_inicial, km_final, porcentagem_local, porcentagem_global&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1753" y="1147" width="630" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-75" target="4vYh27ppjJLLdov5CZwn-77">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-75" target="4vYh27ppjJLLdov5CZwn-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-75" value="&lt;div&gt;PASSO 2 - Determinar direção do avanço e se o início do gráfico será no início, no meio ou no fim.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Verifica quantas camadas começam da mesma quilometragem, isto significa que este é o ponto inicial do avanço.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Caso as camadas comecem na esquerda, o provável avanço será da esquerda para a direita e vice versa.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Existe um css para cada situação de início do gráfico: início, meio ou fim.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $esquerdaIguais e $direitasIguais&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-75" value="&lt;div&gt;PASSO 2 - Determinar direção do avanço e se o início do gráfico será no início, no meio ou no fim.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Verifica quantas camadas começam da mesma quilometragem, isto significa que este é o ponto inicial do avanço.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Caso as camadas comecem na esquerda, o provável avanço será da esquerda para a direita e vice versa.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Existe um css para cada situação de início do gráfico: início, meio ou fim.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $esquerdaIguais e $direitasIguais&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1753" y="1290" width="630" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-77" target="4vYh27ppjJLLdov5CZwn-79">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-77" target="4vYh27ppjJLLdov5CZwn-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-77" value="&lt;div&gt;PASSO 3 - Calcula o deslocamento do gráfico utilizando sua própria quilometragem.&lt;/div&gt;&lt;div&gt;&amp;nbsp;function calcularDeslocamentoSegmentos(&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-77" value="&lt;div&gt;PASSO 3 - Calcula o deslocamento do gráfico utilizando sua própria quilometragem.&lt;/div&gt;&lt;div&gt;&amp;nbsp;function calcularDeslocamentoSegmentos(&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1753" y="1405" width="630" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-79" target="4vYh27ppjJLLdov5CZwn-73">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4vYh27ppjJLLdov5CZwn-79" target="4vYh27ppjJLLdov5CZwn-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4vYh27ppjJLLdov5CZwn-79" value="&lt;div align=&quot;center&quot;&gt;Foreach na camada de terraplanagem&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4vYh27ppjJLLdov5CZwn-79" value="&lt;div align=&quot;center&quot;&gt;Foreach na camada de terraplanagem&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=left;strokeColor=#b85450;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1510" y="1282" width="160.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J74nbL6iX4qutOKJNXz_-0" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.5" y="20" as="sourcePoint" />
+            <mxPoint x="270" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J74nbL6iX4qutOKJNXz_-2" value="&lt;div&gt;C:\desenvolvimento\supra\application\controllers\homeCgcont\Supervisaocont\Supervisaocontctr.php&lt;/div&gt;&lt;div&gt;Procurar: #UNIFILAR&lt;/div&gt;&lt;div&gt;$Dados[&quot;dadosUnifilar3D&quot;]&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="403" y="10" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J74nbL6iX4qutOKJNXz_-3" value="Painéis Gerenciais" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J74nbL6iX4qutOKJNXz_-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J74nbL6iX4qutOKJNXz_-3" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="70" as="sourcePoint" />
+            <mxPoint x="560" y="20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
