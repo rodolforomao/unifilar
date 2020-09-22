@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T12:52:33.895Z" agent="5.0 (Windows)" etag="ge0yzjLF-FbdPWwCLPDv" version="13.7.4" type="github"><diagram id="4BBpszr6yqTaOu6I7IrI" name="Page-1">5VlNc5swEP01TNpDMggZfxxtx07bSWbaeNrO5NKRQQF5ABEhbKe/visQxhiSkDaOG+dgWzzESnorvd3FBh6H6wtBYv+KuzQwLNNdG/jcsKx+tw/fCrjPgU5vkAOeYG4OoRKYsd9Ug6ZGU+bSpNJRch5IFldBh0cRdWQFI0LwVbXbLQ+qo8bEozVg5pCgjv5krvT1sqxeiX+izPOLkVFXry8kRWe9ksQnLl9tQXhi4LHgXOatcD2mgeKu4CV/bvrA3c3EBI1kmwd4f/LdWa9ubi6d9Hpky8XXu7tTnFtZkiDVC9aTlfcFA9QFQvQlF9LnHo9IMCnRkeBp5FI1jAlXZZ9LzmMAEYALKuW99i5JJQfIl2Gg7+ZjqoEeXJuGEp4Khz6yoGKPEOFR+Ug/a+MB2LmUh1SKe3hO0IBItqzOg+g95G36lTRDQzP9DNbt98p655CsoxrrPxhdAXJ6QQURxTyMMTZGWDBe80nJuKJv5TNJZzHJiFmB+DWxu6RC0vXj/Nb5KB7oaunQ2llcrkohQoW6+FsiVPR7cQatGoMkjgPmgPN4ZNjjJfCZwK8P4429UAhoZ5xyoHOWxlQsWUI4oCyMBQuZuC7uKlecxX5cIx3ok1VmScC8CNoO0EgFAIpkmEQw1DdC5rr5EaEJ+03mmSl1SGLOIpmRYo8M+1zZglOR5AfkhZyGcdVp/brTOp0Gp1n7clrv2MSm01JsuocUm8F7Zb1/SNY7NdZHPBP0IeZP6/sTil6V/z3oO7IPLfDdhl3bDZT+umwJTU81s2i5Ee4PH4suMOJWr4YHr6nHEikgDVZzh8Yyc80gUfWBwr7MDDyE3iRU1EfzJM4MmYWtudi1/uSYEGtIklCpwtLiL2PTGTzYegZHFr6Qbdf2JO427El7X3sS1fO2Ny6l/ZZSisxmV71Sunx0tWFr3g9aHKKjqw5b837Q8rDfJvYNF2Sdx6h24Wfsk5Dks7XM2zTKAl4vS0FsmmSviZj6iWlCXLWk9qYRBF7zW0pcoULnmIfgGkUTb23BUhaGS6JnpcxMs+Z5wpz2ZnBmZi6oWid8FiQChxUxfTfnahU1Xz0TQ9WoZzVkYlZTJjbYW9Qza9txThL6KxVBlhCptOgELJfpjDWdRA4VgoSwaCB6epftja2NcfL2s5PBjp96dT/hV62uUf2dyHP9ROAEOnzK1KE7Phdhs8FF6FVddHRvQFDbYhwd9B0Iqpfjn/PaCsD/sR7fiQK4QV0ao0Bnb1u3XpA/V12KavaKRUcgLr0dDzW8Xd0Izj+KC1yWf85l97b+4cSTPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-22T13:15:00.772Z" agent="5.0 (Windows)" etag="DsFJ7AsMI_qtsYj9wHZ4" version="13.7.4" type="github">
+  <diagram id="4BBpszr6yqTaOu6I7IrI" name="Page-1">
+    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-1" target="o8EUcxwZZLcuRB5tjPqq-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-1" target="o8EUcxwZZLcuRB5tjPqq-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-1" value="View -Gerar relatório" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-2" value="application\views\homeCgmrr\relatorioSupervisao\imprimirRelatorioView.php" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="80" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-4" target="o8EUcxwZZLcuRB5tjPqq-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-4" target="o8EUcxwZZLcuRB5tjPqq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-4" value="Botão relatório" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-6" value="&lt;div&gt;GerarRelatorio()&lt;/div&gt;&lt;div&gt;Registrado através do JS:&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;\assets\js\homeCgmrr\relatorioSupervisao\imprimirRelatorio.js&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="155" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-8" target="o8EUcxwZZLcuRB5tjPqq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-8" target="o8EUcxwZZLcuRB5tjPqq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-8" target="o8EUcxwZZLcuRB5tjPqq-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-8" value="&lt;div&gt;Ajax:&lt;/div&gt;&lt;div&gt;Chama as funções mais pesadas:&lt;/div&gt;&lt;div&gt;1) Quadro Comparativo&lt;/div&gt;&lt;div&gt;2) Avanço Físico&lt;/div&gt;&lt;div&gt;3) Abre a janela do relatório&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="250" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-10" value="base_url + &#39;/homeCgmrr/Encerramento/quadroComparativo&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="270" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-12" value="base_url + &#39;/homeCgmrr/Encerramento/avancoFisico&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="300" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o8EUcxwZZLcuRB5tjPqq-14" target="o8EUcxwZZLcuRB5tjPqq-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8EUcxwZZLcuRB5tjPqq-14" target="P8OVS8Y2kgAeHacPPdGE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-14" value="Imprimi o relatório" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o8EUcxwZZLcuRB5tjPqq-16" value="base_url + &#39;/homeCgmrr/Encerramento/imprimirMin&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="380" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-1" target="P8OVS8Y2kgAeHacPPdGE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-1" value="&lt;div&gt;1) Pesquisar BR´s&lt;/div&gt;&lt;div&gt;2) Inicializa sumário&lt;/div&gt;&lt;div&gt;3) Dados das rodovias&lt;/div&gt;&lt;div&gt;4) Dados dos segmentos&lt;/div&gt;&lt;div&gt;5) Período de referência&lt;/div&gt;&lt;div&gt;6) Pesquisa informações da Construtora e Supervisora&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-4" target="P8OVS8Y2kgAeHacPPdGE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-4" value="&lt;div&gt;7) Recupera apresentação deste período&lt;/div&gt;&lt;div&gt;8) Recupera mapa de situação&lt;/div&gt;&lt;div&gt;9) Recupera número do relatório&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="585" width="320" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-6" target="P8OVS8Y2kgAeHacPPdGE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-6" value="Gera Quadro Comparativo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-8" target="P8OVS8Y2kgAeHacPPdGE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-8" value="Gera Avanço físico Geral" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-10" value="Gera Avanço físico Mensal" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="60" y="840" width="320" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
