@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T13:15:00.772Z" agent="5.0 (Windows)" etag="DsFJ7AsMI_qtsYj9wHZ4" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T13:35:42.453Z" agent="5.0 (Windows)" etag="AhKcHEzXG7OtojjBJNoX" version="13.7.4" type="github">
   <diagram id="4BBpszr6yqTaOu6I7IrI" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,17 +73,29 @@
         <mxCell id="P8OVS8Y2kgAeHacPPdGE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-6" target="P8OVS8Y2kgAeHacPPdGE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-6" target="P8OVS8Y2kgAeHacPPdGE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P8OVS8Y2kgAeHacPPdGE-6" value="Gera Quadro Comparativo" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="680" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P8OVS8Y2kgAeHacPPdGE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-8" target="P8OVS8Y2kgAeHacPPdGE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-8" target="P8OVS8Y2kgAeHacPPdGE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P8OVS8Y2kgAeHacPPdGE-8" value="Gera Avanço físico Geral" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="760" width="320" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8OVS8Y2kgAeHacPPdGE-10" target="P8OVS8Y2kgAeHacPPdGE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P8OVS8Y2kgAeHacPPdGE-10" value="Gera Avanço físico Mensal" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="840" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P8OVS8Y2kgAeHacPPdGE-12" value="&lt;div&gt;Gera o html em:&lt;/div&gt;&lt;div&gt;arquivos\cgmrr\htmlRelatoriosCrema&lt;/div&gt;&lt;div&gt;O html tem intuito de diminuir o tempo de processamento destas informações, que são muito pesadas.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="750" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
