@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T15:17:45.455Z" agent="5.0 (Windows)" etag="EmWhk1WS5onpqPPVmNAC" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T15:21:06.689Z" agent="5.0 (Windows)" etag="BLyjHMk2KrEb27OgGiN1" version="13.8.8" type="github">
   <diagram id="2LCaAvaUBJXK9sHRTvi8" name="Page-1">
     <mxGraphModel dx="2131" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,29 +182,29 @@
         <mxCell id="QQ8mgKthoXwThFcSfYc5-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-49" target="QQ8mgKthoXwThFcSfYc5-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQ8mgKthoXwThFcSfYc5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-49" target="QQ8mgKthoXwThFcSfYc5-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-49" value="2) do...while($skip1)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-51" target="QQ8mgKthoXwThFcSfYc5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-51" value="Foreach($lista as $item1)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="906" width="190" height="60" as="geometry" />
+          <mxGeometry x="679" y="940" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-53" target="QQ8mgKthoXwThFcSfYc5-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-53" value="Foreach($lista as $item2)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="976" width="190" height="60" as="geometry" />
+          <mxGeometry x="699" y="1034" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-56" target="QQ8mgKthoXwThFcSfYc5-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQ8mgKthoXwThFcSfYc5-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-56" target="QQ8mgKthoXwThFcSfYc5-60">
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-61" value="$motivo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-56" target="QQ8mgKthoXwThFcSfYc5-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-56" value="verificaMesmoSegmentoTrecho()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="976" width="195" height="60" as="geometry" />
+          <mxGeometry x="939" y="1034" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-58" value="&lt;h1&gt;Verifica se estão no mesmo segmento&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Pega dois itens da mesma lista e verificam se estão na mesma km para realizar a junção dos itens.&lt;/div&gt;&lt;div&gt;Os itens podem ser:&lt;/div&gt;&lt;div&gt;&amp;gt; Iguais: Mesmo quilometros&lt;/div&gt;&lt;div&gt;&amp;gt; Engloba: um item está dentro do outro, assim a junção dos dois itens virão três itens, ou seja: km 1 - 2, km 2-3 e km 3-4.&lt;/div&gt;&lt;div&gt;&amp;gt; Fora: Não estão no mesmo seguimento.&lt;/div&gt;&lt;div&gt;&amp;gt; Termina dentro: item inicia fora e acaba dentro do outro segmento, assim o código deverá juntar os dois itens que estão na mesma quilometragem e atualizar a parte que ficou fora do segmento.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Inicia dentro: item inicia entro e acaba fora do outro segmento,. &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="701" width="530" height="239" as="geometry" />
@@ -214,14 +214,14 @@
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-67" value="NÃO / continue" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-60" target="QQ8mgKthoXwThFcSfYc5-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="907.5" y="1119.9999999999995" as="targetPoint" />
+            <mxPoint x="936.5" y="1153.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-60" value="Mesmo segmento?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="961.25" y="1065" width="92.5" height="85" as="geometry" />
+          <mxGeometry x="990.25" y="1154" width="92.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-62" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1077.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1159" y="1166.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
