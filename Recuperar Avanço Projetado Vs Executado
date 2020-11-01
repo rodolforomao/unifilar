@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T15:25:36.124Z" agent="5.0 (Windows)" etag="GKSg0Uu6gZdwHBFzHzyP" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T16:55:25.094Z" agent="5.0 (Windows)" etag="3offVvHC1I2kU1pHcMKj" version="13.8.8" type="github">
   <diagram id="2LCaAvaUBJXK9sHRTvi8" name="Page-1">
     <mxGraphModel dx="2131" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,7 +237,10 @@
         <mxCell id="QQ8mgKthoXwThFcSfYc5-70" value="&lt;div&gt;Qual &lt;br&gt;&lt;/div&gt;&lt;div&gt;motivo?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1156.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QQ8mgKthoXwThFcSfYc5-71" value="1) Item 2 interno ao Item 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-71" target="QQ8mgKthoXwThFcSfYc5-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-71" value="1) Item 2 interno ao Item 1 OU items iguais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1325" y="1048.25" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-72" value="2) Item2 começa dentro do Item 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -248,6 +251,33 @@
         </mxCell>
         <mxCell id="QQ8mgKthoXwThFcSfYc5-74" value="4) Item2 termina no Item 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1325" y="1284.75" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-79" target="QQ8mgKthoXwThFcSfYc5-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-79" value="Itens iguais" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="974" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-82" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-71" target="QQ8mgKthoXwThFcSfYc5-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1150" as="sourcePoint" />
+            <mxPoint x="1530" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1405" y="1004" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-83" value="Juntar itens excluir da lista original" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="974" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-85" target="QQ8mgKthoXwThFcSfYc5-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-85" value="Item 2 é interno ao item 1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="1048.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-89" value="Separar 2 ou 3 itens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1048.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
