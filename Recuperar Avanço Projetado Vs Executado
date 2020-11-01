@@ -1,1 +1,165 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T14:28:04.646Z" agent="5.0 (Windows)" version="13.8.8" etag="hJ-t5BngBLxw-a3zWqRq" type="github"><diagram id="2LCaAvaUBJXK9sHRTvi8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-01T14:53:57.833Z" agent="5.0 (Windows)" etag="1Exxi03mYUgZuW0HrxLX" version="13.8.8" type="github">
+  <diagram id="2LCaAvaUBJXK9sHRTvi8" name="Page-1">
+    <mxGraphModel dx="1462" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-1" value="Quadro Comparativo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-2" value="Avanço Físico Mensal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-3" value="Avanço Físico Acumulado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-4" target="QQ8mgKthoXwThFcSfYc5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-4" value="recuperarAvancosExecEProj()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-5" target="QQ8mgKthoXwThFcSfYc5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-15" value="Parameter: $listaAvancosExecEProj" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQ8mgKthoXwThFcSfYc5-7">
+          <mxGeometry x="-0.0194" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-5" value="&lt;div&gt;imprimirMin()&lt;/div&gt;&lt;div&gt;Class: Encerramento&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-9" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-5" target="QQ8mgKthoXwThFcSfYc5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-17" value="Parameter: null" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQ8mgKthoXwThFcSfYc5-9">
+          <mxGeometry x="0.24" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-5" target="QQ8mgKthoXwThFcSfYc5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-16" value="Parameter: $listaAvancosExecEProj" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQ8mgKthoXwThFcSfYc5-11">
+          <mxGeometry x="0.1347" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-5" target="QQ8mgKthoXwThFcSfYc5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="190" as="sourcePoint" />
+            <mxPoint x="80" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-14" value="return $listaAvancosExecEProj" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQ8mgKthoXwThFcSfYc5-13">
+          <mxGeometry x="0.4356" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-18" value="&lt;h1&gt;Função&lt;/h1&gt;&lt;p&gt;A função do recuperar avanços executados e projetados é separar e acelerar o BI dos dados que serão apresentados no relatório. O retorno desta função será utilizado no Quadro comparativo e também no Avanço físico acumulado.&lt;/p&gt;&lt;p&gt;Este item não será usado no avanço mensal, pois ele é menor e poderá refazer o BI com uma quantidade de dados menor.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-170" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-4" target="QQ8mgKthoXwThFcSfYc5-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="90" as="sourcePoint" />
+            <mxPoint x="414" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-22" target="QQ8mgKthoXwThFcSfYc5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-24" target="QQ8mgKthoXwThFcSfYc5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-24" value="&lt;div&gt;Class: Relatorio_crema&lt;/div&gt;&lt;div&gt;Função: recuperarAvancosExecEProj&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="409.5" y="220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-22" value="gerarAvancosExecEProj()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="130" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-4" target="QQ8mgKthoXwThFcSfYc5-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="160" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-30" value="$lista1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-27" target="QQ8mgKthoXwThFcSfYc5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-32" value="$lista2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-27" target="QQ8mgKthoXwThFcSfYc5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-27" target="QQ8mgKthoXwThFcSfYc5-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-41" value="$lista3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQ8mgKthoXwThFcSfYc5-34">
+          <mxGeometry x="0.0563" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-27" target="QQ8mgKthoXwThFcSfYc5-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-27" value="gerarSolucoesProjetasExecutadasPorKm()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="330" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-29" target="QQ8mgKthoXwThFcSfYc5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-29" value="recuperarProjetadoExecutado()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="240" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-31" target="QQ8mgKthoXwThFcSfYc5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-31" value="recuperarIdsSolucoes()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ8mgKthoXwThFcSfYc5-33" target="QQ8mgKthoXwThFcSfYc5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-33" value="preencherSolucoes($lista1, $lista2)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="410" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-35" value="&lt;h1&gt;Recuperar Projetado e Executado&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Recupera todos os avanços Projetados e Executados até este momento (período de referência em questão).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="225" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-37" value="&lt;h1&gt;Recuperar e montar soluções&lt;br&gt;&lt;/h1&gt;Recupera todas as soluções totais e parciais cadastradas para esse contrato/período de referência." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="315" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-39" value="&lt;h1&gt;Preencher soluções&lt;br&gt;&lt;/h1&gt;Pega os dois itens anteriores e monta as soluções de cada avanço recuperado." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="395" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QQ8mgKthoXwThFcSfYc5-42" value="montarAvancoPorSegmentosComuns($lista3)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="525" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
